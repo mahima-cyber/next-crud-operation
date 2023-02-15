@@ -1,4 +1,51 @@
-:root {
+
+.heading{
+  margin-top: 10px;
+}
+.containar{
+  width:  40vw;;
+  display: inline-block;
+  border: solid 1px;
+  margin-left: 30%;
+  border: outset;
+  margin-top: 0px;
+}
+.input{
+  margin: 10px;
+}
+.headerButton{
+  margin-left: auto;
+
+}
+.headerButton2{
+  margin-left: 10px;
+}
+.formbtn{
+  margin-left: 20px;
+  float: right
+}
+.btn{
+  margin: 5px;
+  display: flex;
+  justify-content: flex-end;
+}
+.btn2{
+  margin-left: 5px;
+}
+.btn3{
+  display: block;
+}
+.input{
+  margin: 10px;
+}
+.div{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+/* :root {
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
@@ -71,7 +118,7 @@
     --card-rgb: 100, 100, 100;
     --card-border-rgb: 200, 200, 200;
   }
-}
+} */
 
 * {
   box-sizing: border-box;
