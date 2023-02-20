@@ -5,3 +5,28 @@
     border: outset;
     margin-top: 0px;
 }
+
+.loginContainer{
+    width: 40vw;
+    display: inline-block;
+    border: solid 1px;
+    border: outset;
+    margin-top: 80px;
+    margin-left: 30%;
+    /* position:'absolute';
+       background-color: 'black';
+       opacity: 0.6;
+       z-index:0 */
+}
+.login-container-wrapper{
+    background-color: #33523f;
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_fQ_lsTFiRhE32E-nKicVtzXymCTAkT6AQM4MqR3-RGTwr1YHfG7E8So7JtGSawsx_4RxF8Ufa_k&usqp=CAU&ec=48600112'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+/* .admin_heading{
+    text-align: center;
+    margin: 0 0 36px;
+} */
